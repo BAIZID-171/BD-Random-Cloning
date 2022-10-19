@@ -42,7 +42,7 @@ git clone https:https://github.com/BAIZID-171/BD-Random-Cloning.git
 
 cd BD-Random-Cloning
 
-python Rendom.py
+python BAIZID.py
 
 # Join MY TELEGRAM GROUP 
  https://t.me/Baizid_171
